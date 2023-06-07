@@ -21,10 +21,6 @@ Run the program.
 
 ## Program:
 ~~~
-Developed by : Kiran J
-Ref no : 212221240022
-~~~
-~~~py
 using System;
 namespace vehicles
 {
