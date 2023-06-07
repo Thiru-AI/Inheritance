@@ -28,7 +28,7 @@ namespace vehicles
     {
         public tyre()
         {
-            Console.WriteLine("base class");
+            Console.WriteLine("constructor tyre");
         }
         public virtual void Display()
         {
@@ -39,7 +39,7 @@ namespace vehicles
     {
         public scooter()
         {
-            Console.WriteLine("child class");
+            Console.WriteLine("constructor scooter");
         }
         public override void Display()
         {
@@ -51,7 +51,7 @@ namespace vehicles
     {
         public car()
         {
-            Console.WriteLine("child class");
+            Console.WriteLine("constructor car");
         }
         public override void Display()
         {
@@ -73,8 +73,6 @@ namespace vehicles
 ~~~
 
 ## Output:
-![output](1.png)
-
-
+![Screenshot (24)](https://github.com/Thiru-AI/Inheritance/assets/94980741/7e0b16c3-0a0a-4ffd-9631-7fc6f3067223)
 ## Result
 Thus, C# program to print some messages using hierarchical inheritance.
