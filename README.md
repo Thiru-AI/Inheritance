@@ -73,6 +73,7 @@ namespace vehicles
 ~~~
 
 ## Output:
-![Screenshot (24)](https://github.com/Thiru-AI/Inheritance/assets/94980741/7e0b16c3-0a0a-4ffd-9631-7fc6f3067223)
+![Screenshot (24)](https://github.com/Thiru-AI/Inheritance/assets/94980741/e59b4626-1f1a-466b-807b-adaa34901b6e)
+
 ## Result
 Thus, C# program to print some messages using hierarchical inheritance.
